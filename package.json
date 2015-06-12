@@ -1,5 +1,5 @@
 {
-  "name": "orchestrate",
+  "name": "PnP",
   "version": "1.0.0",
   "description": "a word search application for dredging through pride and prejudice",
   "main": "index.js",
@@ -8,5 +8,19 @@
   },
   "author": "Michael Lorenzo",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "orchestrate": "^0.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Mikeronomicon/PnP.git"
+  },
+  "keywords": [
+    "pride",
+    "prejudice"
+  ],
+  "bugs": {
+    "url": "https://github.com/Mikeronomicon/PnP/issues"
+  },
+  "homepage": "https://github.com/Mikeronomicon/PnP"
 }
